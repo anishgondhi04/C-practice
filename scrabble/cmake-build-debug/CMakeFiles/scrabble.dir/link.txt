@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/scrabble.dir/main.c.o -o scrabble 
