@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/splicer.dir/main.c.o CMakeFiles/splicer.dir/linked_list.c.o -o splicer 
